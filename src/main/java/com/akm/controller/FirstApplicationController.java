@@ -1,4 +1,4 @@
-package com.akm;
+package com.akm.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
